@@ -1,3 +1,6 @@
-# task-manager
- A simple App to manage your tasks, with the use of localStorage.
-![Dark Mode Screenshot](screenshot-darkMode.png)
+<p align="center">
+  # task-manager
+  <p>A simple App to manage your tasks, with the use of localStorage.</p>
+  <br><br>
+  <img src="screenshot-darkMode.png">
+</p>
