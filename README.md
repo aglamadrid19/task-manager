@@ -5,4 +5,4 @@
 * Search items within your tasks.
 * Dark Mode - Enable Dark Mode whenever you want.
 
-![Screenshot](screenshot-darkMode.png)
+![Screenshot](screenshot.jpg)
