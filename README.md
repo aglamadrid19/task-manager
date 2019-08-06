@@ -4,6 +4,7 @@
 * Local Storage - Your tasks will remain after page reload or browser restart.
 * Search items within your tasks.
 * Dark Mode - Enable Dark Mode whenever you want.
-####Demo on GitHub Page
-https://aglamadrid19.github.io/task-manager/
+
+[Demo on GitHub Pages](https://aglamadrid19.github.io/task-manager/)
+
 ![Screenshot](screenshot.jpg)
